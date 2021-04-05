@@ -1,4 +1,0 @@
-
-class CfgFunctions {
-	#include "MissionScripts\CfgFunctions.hpp"
-};
